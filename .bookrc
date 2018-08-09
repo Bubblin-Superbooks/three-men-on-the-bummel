@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Three Men on the Bummel",
-  "type": "text"
+  "type": "text",
+  "book_id": 603
 }
